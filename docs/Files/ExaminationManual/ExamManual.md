@@ -1,74 +1,74 @@
-Guru Nanak Dev Engineering College, Ludhiana
+# Guru Nanak Dev Engineering College, Ludhiana
 
-Examination Manual
+## Examination Manual
 
   --------------------------------------------------------------------------------------------------------------
-  **S. No. **   **Particulars**                                                                   **Pages/**
+  S. No.    Particulars                                                                   Pages/
                                                                                                   
-                                                                                                  **Annexure**
+                                                                                                  Annexure
   ------------- --------------------------------------------------------------------------------- --------------
-  **1**         **Manual of Examination Branch**                                                  
+  1         Manual of Examination Branch                                                  
 
-  **2**         **Guidelines/Instructions for Appointment of Internal/ External Paper Setters**   
+  2         Guidelines/Instructions for Appointment of Internal/ External Paper Setters   
 
-  **3**         **Guidelines/Instructions to the Question Paper Setter**                          
+  3         Guidelines/Instructions to the Question Paper Setter                          
 
-  **4**         **Guidelines/Instructions to the Invigilators**                                   
+  4         Guidelines/Instructions to the Invigilators                                   
 
-  **5**         **Guidelines/Instructions for Examiners**                                         
+  5         Guidelines/Instructions for Examiners                                         
 
-                **Guidelines/Instructions for Flying Squad**                                      
+                Guidelines/Instructions for Flying Squad                                      
 
-                **Instructions for Candidates**                                                   
+                Instructions for Candidates                                                   
 
-                **Guidelines to be followed for Decoding & Verification**                         
+                Guidelines to be followed for Decoding & Verification                         
 
-  **6**         **Remuneration related to Examinations**                                          
+  6         Remuneration related to Examinations                                          
 
-  **7**         **Examination Fee Details**                                                       
+  7         Examination Fee Details                                                       
 
-  **8**         **Guidelines for imposing punishment for UMC/Misconduct cases **                  
+  8         Guidelines for imposing punishment for UMC/Misconduct cases                   
 
-  **9**         **Officers / Staff at Controller of Examinations (COE)**                          
+  9         Officers / Staff at Controller of Examinations (COE)                          
 
-  **10**        **Working of Conduct Section**                                                    
+  10        Working of Conduct Section                                                    
 
-  **11**        **Working of Secrecy Section**                                                    
+  11        Working of Secrecy Section                                                    
 
-  **12**        **Working of Evaluation Section**                                                 
+  12        Working of Evaluation Section                                                 
 
-  **13**        **Discrepancy Redressal Process**                                                 
+  13        Discrepancy Redressal Process                                                 
 
-  **14**        **Various Proformas used in Examination Branch**                                  
+  14        Various Proformas used in Examination Branch                                  
 
-  **15**        **Guidelines for Special Chance Exam**                                            
+  15        Guidelines for Special Chance Exam                                            
 
-  **16**        **Guidelines for Make Up Exam**                                                   
+  16        Guidelines for Make Up Exam                                                   
 
-  **17**        **Guidelines for Improvement Exam**                                               
+  17        Guidelines for Improvement Exam                                               
 
-  **18**        **Guidelines for Aptitude test**                                                  
+  18        Guidelines for Aptitude test                                                  
   --------------------------------------------------------------------------------------------------------------
 
-**Abbreviations **
+Abbreviations 
 
-**BOE- Board of Examination**
+BOE- Board of Examination
 
-**BOS- Board of Studies**
+BOS- Board of Studies
 
-**COE-Controller of Examination**
+COE-Controller of Examination
 
-**HOD- Head of the Department**
+HOD- Head of the Department
 
-**ESE-End Semester Examination**
+ESE-End Semester Examination
 
-**UMC- Unfair Means Cases**
+UMC- Unfair Means Cases
 
-**DRC- Discrepancy Redressal Issue**
+DRC- Discrepancy Redressal Issue
 
-**CRC- Complaint Redressal Committee**
+CRC- Complaint Redressal Committee
 
-**MPD- Mentoring and Professional Development**
+MPD- Mentoring and Professional Development
 
 ![](media/image1.jpeg){width="3.472222222222222e-3in"
 height="1.5277777777777777e-2in"}![](media/image1.jpeg){width="1.388888888888889e-3in"
@@ -84,7 +84,7 @@ height="1.6666666666666666e-2in"}![](media/image2.jpeg){width="1.388888888888889
 height="1.6666666666666666e-2in"}![](media/image2.jpeg){width="1.388888888888889e-3in"
 height="1.6666666666666666e-2in"}
 
-**Formation of BOE (Board of Examinations)**
+Formation of BOE (Board of Examinations)
 
 > A committee consisting of following members will act as a board of
 > examination (BOE).
@@ -150,7 +150,7 @@ e.  Preparation and declaration of final results: Deputy Controller
 f.  Showing of answer books to the students after evaluation: Head of
     > concerned department.
 
-> **Appointment of Paper Setters and Examiners**
+> Appointment of Paper Setters and Examiners
 >
 > 2.1 Chairman of concerned BOS shall recommend a panel of examiners
 > both internal and external.
@@ -169,7 +169,7 @@ f.  Showing of answer books to the students after evaluation: Head of
 > 2.5 The concerned examiners shall follow all paper setting related
 > guidelines from COE
 
-**Question Paper Setting **
+Question Paper Setting 
 
 > 3.1 The appointed examiner will set the paper and submit two copies of
 > the same to the COE.
@@ -196,9 +196,9 @@ f.  Showing of answer books to the students after evaluation: Head of
 > on question paper setting and evaluation, appointed by Chairman BOE
 > and the committee shall report the anomalies, if any to Chairman, BOE.
 
-**Conduct of Examination**
+Conduct of Examination
 
-4.1 **General**
+4.1 General
 
 > 4.1.1 The various examinations for U.G. / P.G. Programmes shall be
 > conducted in accordance with the Academic Rules and Regulations for
@@ -465,7 +465,7 @@ He / She shall -
 >
 > 4.3.13 HOD /Professors will be deputed as Centre Superintendant.
 
-**Central Evaluation**
+Central Evaluation
 
 5.1 General
 
@@ -540,7 +540,7 @@ He / She shall -
 > All assessed answer books shall be preserved for Six months in
 > examination cell from the date of Result Notification.
 
-**Tabulation and Declaration of Results**
+Tabulation and Declaration of Results
 
 > 6.1 i. Evaluators are provided with security code range which they
 > allot to each Answer booklets randomly and then enter the marks
@@ -571,9 +571,9 @@ ii) clerical error, manual or machine error, in totaling or entering of
 iii) error due to negligence or oversight of examiner or any other
     person connected with evaluation, moderation and result tabulation.
 
-**List of the Formats / Guidelines used In Examination Cell**
+List of the Formats / Guidelines used In Examination Cell
 
-  **S.No.**   **Contents**
+  S.No.   Contents
   ----------- --------------------------------------------------------------------------------------------------------------------
   1           Appointment of Paper Setter of Theory Question Paper for End Semester Examinations (Month & Year) of Our Institute
   2           Acceptance form (For External Paper Setter)
@@ -596,8 +596,8 @@ iii) error due to negligence or oversight of examiner or any other
   12          Remuneration bill-cum-receipt
   13          Formats for Question Papers
 
-**Guidelines/Instructions for Appointment of Internal/ External Paper
-Setters**
+Guidelines/Instructions for Appointment of Internal/ External Paper
+Setters
 
 > 1\. Appointment of examiners for both theory and/or lab examinations
 > shall be made 20 days before the commencement of ESE.
@@ -624,7 +624,7 @@ Setters**
 > setting of question papers, submission of model answers, scheme of
 > marking, etc.
 
-**Guidelines/Instructions to the Question Paper Setter**
+Guidelines/Instructions to the Question Paper Setter
 
 > 1\. The question paper format with common instructions printed on it
 > shall be provided to the paper setter.
@@ -652,7 +652,7 @@ Setters**
 > 5\. Question paper should be set as per the format provided to the
 > examiner.
 
-**Guidelines/Instructions to the Invigilators**
+Guidelines/Instructions to the Invigilators
 
 1.  The invigilators shall enter the examination hall at least 15
     minutes before the start of examination. He / She shall,
@@ -697,7 +697,7 @@ Setters**
 
 13. Hand over the answer books to Centre Superintendant
 
-**Guidelines/Instructions for Examiners**
+Guidelines/Instructions for Examiners
 
 After receiving the order for evaluation of answer booklets, the
 examiner shall
@@ -757,7 +757,7 @@ examiner shall
 > 10\. Submit evaluated answer books to office the Coordinator (Evaluation)
 > along with mark sheet in prescribed format.
 
-**Instructions/Guidelines for Flying Squad**
+Instructions/Guidelines for Flying Squad
 
 1.  The flying squad team should satisfy themselves regarding
     arrangement made for frisking of candidates at entry gate. Flying
@@ -800,7 +800,7 @@ examiner shall
     examination Centres separately and shall handover to COE at the end
     of exam (sealed and marked confidential).
 
-**Instructions for Candidate**
+Instructions for Candidate
 
 -   Candidates can view status of their examination regular/reappear
     form (received or not received) and their date sheet (as applicable)
@@ -833,16 +833,16 @@ examiner shall
     where it is mentioned 'For Candidate Only' The sample data is
     provided here:
 
-  **Examination Month and Year:**   May - 2019
+  Examination Month and Year:   May - 2019
   --------------------------------- ----------------------------------------------------- --------------------------------- --------------------------------
-  **Program / Course:**             B.Tech./M.Tech./MBA/MCA (as applicable)
-  **Branch:**                       Information Technology (do not write abbreviation)
-  **Subject Name:**                 Engineering Mathematics (do not write abbreviation)
-  **Subject Code:**                 BTAM-101 (as per your admit card)
-  **Regular/Reapper:**              Regular (as applicable)
-  **Session (Morning/Evening):**    Morning (as applicable)
-  **Name:**                         Raman Singh
-  **Univ. Roll No. (in words):**    ONE FOUR THREE TWO FIVE
+  Program / Course:             B.Tech./M.Tech./MBA/MCA (as applicable)
+  Branch:                       Information Technology (do not write abbreviation)
+  Subject Name:                 Engineering Mathematics (do not write abbreviation)
+  Subject Code:                 BTAM-101 (as per your admit card)
+  Regular/Reapper:              Regular (as applicable)
+  Session (Morning/Evening):    Morning (as applicable)
+  Name:                         Raman Singh
+  Univ. Roll No. (in words):    ONE FOUR THREE TWO FIVE
 
 -   Candidate must check physically the answer booklet before writing
     anything on it. Number of pages in the answer booklet are 32. No
@@ -896,13 +896,13 @@ examiner shall
     (gndec.ac.in) and their student logins (academics.gndec.ac.in)
     regularly for updates.
 
--   **In case of double stamping of “Space Below Cancelled” stamp the
+-   In case of double stamping of “Space Below Cancelled” stamp the
     student must ask the invigilator to cancel out and counter sign the
-    extra stamp.**
+    extra stamp.
 
-**Guidelines to be followed for Decoding & Verification**
+Guidelines to be followed for Decoding & Verification
 
-***Decoding***
+*Decoding*
 
 1.  Eight teams of two Staff Members each are constituted for decoding
     and verification of results.
@@ -914,7 +914,7 @@ examiner shall
     department and courses that has been taught by them in the current
     semester.
 
-***Results & Verification***
+*Results & Verification*
 
 1.  Three teams of two staff members each are constituted for awards
     verification (internal theory, internal practical and external
@@ -926,7 +926,7 @@ examiner shall
 3.  During the process of awards verification, the staff members should
     not verify the awards of the parent department.
 
-**Remuneration related to Examinations**
+Remuneration related to Examinations
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   S. No.   Position                                                                                     Number                        Remuneration (Rs.)
@@ -1003,7 +1003,7 @@ examiner shall
 > Note: The number of person deputed can be increased / decreased with
 > the prior permission of Chairman BOE.
 
-**Examination Fee Details**
+Examination Fee Details
 
 > Detail of Examination fee and late fee:
 >
@@ -1023,15 +1023,15 @@ Note: The hike in Examination fee is recommended keeping in view the
 increased expenditures due to bifurcation of even and odd semester
 examinations.
 
-**Guidelines for imposing punishment for UMC/Misconduct cases **
+Guidelines for imposing punishment for UMC/Misconduct cases 
 
 Following are the guidelines to be used by Complaint Redressal Committee
 (CRC) for imposing punishment on the examinees caught copying/involved
 in any type of misconduct during or after Examination:
 
 +-----------------------+-----------------------+-----------------------+
-| **Sr. No.**           | **Nature of           | **Quantum             |
-|                       | Malpractice**         | ofPunishment**        |
+| Sr. No.           | Nature of           | Quantum             |
+|                       | Malpractice         | ofPunishment        |
 +=======================+=======================+=======================+
 | 1                     | Examinee found        | Cancellation of end   |
 |                       | communicating or      | semester examination  |
@@ -1277,7 +1277,7 @@ in any type of misconduct during or after Examination:
 |                       |                       | abovementioned        |
 |                       |                       | criteria              |
 +-----------------------+-----------------------+-----------------------+
-| **Note:** Complaint   |
+| Note: Complaint   |
 | Redressal Committee   |
 | may reduce/increase   |
 | the punishment        |
@@ -1285,13 +1285,13 @@ in any type of misconduct during or after Examination:
 | severity of the       |
 | malpractice.          |
 |                       |
-| **\                   |
-| **                    |
+| \                   |
+|                     |
 +-----------------------+-----------------------+-----------------------+
 
-**Officers / Staff at Controller of Examinations (COE)**
+Officers / Staff at Controller of Examinations (COE)
 
-  **Designation**                                **Numbers**
+  Designation                                Numbers
   ---------------------------------------------- -------------
   COE                                            1
   Assistant Controller (Conduct)                 1
@@ -1321,7 +1321,7 @@ height="4.119755030621173in"}
 ![Redressal.jpg](media/image9.jpeg){width="7.735687882764655in"
 height="7.739130577427821in"}
 
-**Guidelines for Improvement Exam**
+Guidelines for Improvement Exam
 
 Students of UG and PG of AICTE admitted from 2012 admission (i.e.
 admitted under Autonomous Status) under non-credit based scheme will be
@@ -1352,7 +1352,7 @@ g)  This policy will be applicable to only external theory papers only.
 
 This policy will be implemented from May, 2019 examinations onwards.
 
-**Guidelines for Makeup Exam**
+Guidelines for Makeup Exam
 
 The College is going to conduct Makeup examination for the students who
 couldn’t pass their Regular Subjects in last End Semester Examination
@@ -1416,7 +1416,7 @@ be entertained.
 
 Note: Incomplete form will not be accepted.
 
-**Guidelines for Special Chance exam-**
+Guidelines for Special Chance exam-
 
 As per the guidelines from IKGPTU,examination branch of Guru Nanak Dev
 Engineering College is going to conduct special chance examination for
@@ -1448,8 +1448,8 @@ examinations:
 7)  Students can fill Thesis as subject in special chance examination
     only if all subjects of the course are cleared successfully.
 
-**Instructions for Superintendents/Deputy Supdt. /Invigilators for
-Aptitude test-**
+Instructions for Superintendents/Deputy Supdt. /Invigilators for
+Aptitude test-
 
 -   Students must carry College Identity cards during the examination.
     These should be checked by the concerned invigilators.
