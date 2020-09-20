@@ -2,9 +2,9 @@
 
 ### Read All Instructions Carefully:
 
-1. On Laptop, or on desktop with a webcam, use latest version of modern web browser like Google Chrome, Firefox, Edge for appearing in the End Semester Examination (ESE). There is no need to install any software / plugin.
+1. On Laptop, or on desktop with a webcam, use latest version of modern web browser like Google Chrome, Firefox, Edge for appearing in the End Semester Examination (ESE). There is no need to install any software / plugin. Go through [presentation](https://drive.google.com/file/d/1o2EoB9I3prdUXbZgzDOnC7eG0B2BOKIO/view?usp=sharing) and [Video](https://drive.google.com/file/d/1--ebSCqGEKvkBc1OFbb5AGEnQFf3OKen/view?usp=sharing).
 1. Laptop / Desktop should have RAM not less than 2 GB.
-1. In case you wish to use Mobile then install app for [Android](https://play.google.com/store/apps/details?id=com.mobility.hiremeeapp) or [iPhone](https://itunes.apple.com/in/app/hiremee/id1210630369?mt=8).
+1. In case you wish to use Mobile then install app for [Android](https://play.google.com/store/apps/details?id=com.mobility.hiremeeapp) or [iPhone](https://itunes.apple.com/in/app/hiremee/id1210630369?mt=8). Go through [presentation](https://drive.google.com/file/d/13uCC8WgHoi909H_zwx5Vix269FIrf15G/view?usp=sharing) and video.
 1. If you are able to install app on mobile, that mean your Mobile is supported, else arrange a different Mobile phone, or attempt on Laptop / Desktop with Webcam.
 1. A minimum internet speed of 512 kbps is required.
 1. Check Internet speed before hand, from sites like: [m-Lab](https://speed.measurementlab.net) or [SpeedTest](https://www.speedtest.net)
