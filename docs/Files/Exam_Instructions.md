@@ -13,6 +13,7 @@
 1. Turn off all chat applications / messaging apps / other web browsers.
 1. Do not navigate away from the test window while appearing in ESE. Doing so will make you disqualified and your attempt will be freezed (that mean you won't able to attempt further).
 1. Only in case of power or internet failure, re-enter the same credentials to finish your examination. The examination will resume from the same instance where it got disrupted.
+1. Ensure sufficient (with factor of safety and redundancy) power backup to keep your devices amd Internet running for the duration of examination.
 1. The Test Pin, which authorises you to appear in the examination (which you will get through email, one day in advance) is for one-time use only.
 1. Do not forget to click on the End Test once the examination is completed.
 1. Keep an eye on the Timer displayed on the screen.
