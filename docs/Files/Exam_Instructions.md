@@ -68,7 +68,7 @@ when asked.
 donotreply@hiremee.co.in with subject “Examination Invitation”, by 08:00 am
 in the morning session and 12.00 pm for the evening session of the day of
 exam, then he / she need to inform the authorities by filling form
-at:____________. Note that students will have to fill the mentioned form
+at:. Note that students will have to fill the mentioned form
 ONLY. Telephonic communication of any kind will not be entertained to
 address the discrepancies/problems during the exam time.
 9. It is the sole responsibility of the student to provide correct and
@@ -105,7 +105,7 @@ signatures at the bottom of the page
     1. Signature on every page at bottom
     1. Page count/total number of pages at the bottom
 19. Immediately after test is over, scanned copies of calculation work in
-zipped form needed to uploaded using form XXXXXXXXXXXXXXXXXXXXXXXXX.
+zipped form needed to uploaded using form .
 20. Students shall also be responsible to post (Regd./Speed post only) all
 original papers used for calculation purpose after the last examination of
 the concerned student, failing which results shall not be declared. Speed
