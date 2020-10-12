@@ -4,17 +4,17 @@ Following information is for the students who are to appear for End Semester Rea
 ## Read All Instructions Carefully:
 
 ### INSTRUCTIONS REGARDING CONNECTIVITY:
-(i).	On Laptop, or on desktop with a webcam, use latest version of modern web browser like Google Chrome, Firefox, Edge for appearing in the End Semester Examination (ESE). There is no need to install any software / plugin. Go through presentation and Video.
-(ii).	Laptop / Desktop should have RAM not less than 2 GB.
-(iii).	In case you wish to use Mobile then install hiremee app for Android or iPhone. Go through presentation and video.
-(iv).	If you are able to install app on mobile, that mean your Mobile is supported, else arrange a different Mobile phone, or attempt on Laptop / Desktop with Webcam.
-(v).	A minimum internet speed of 512 kbps is required.
-(vi).	Check Internet speed before hand, from sites like: m-Lab or SpeedTest
-(vii).	Prefer Wired or good WiFi connection on Laptop.
-(viii).	On mobile ensure location which gives you stable speed not less than 512 kbps.
-(ix).	Turn off all chat applications / messaging apps / other web browsers.
-(x).	Only in case of power or internet failure, re-enter the same credentials to finish your examination. The examination will resume from the same instance where it got disrupted.
-(xi).	Ensure sufficient (with factor of safety and redundancy) power backup to keep your devices amd Internet running for the duration of examination.
+i.	On Laptop, or on desktop with a webcam, use latest version of modern web browser like Google Chrome, Firefox, Edge for appearing in the End Semester Examination (ESE). There is no need to install any software / plugin. Go through presentation and Video.
+ii.	Laptop / Desktop should have RAM not less than 2 GB.
+iii.	In case you wish to use Mobile then install hiremee app for Android or iPhone. Go through presentation and video.
+iv.	If you are able to install app on mobile, that mean your Mobile is supported, else arrange a different Mobile phone, or attempt on Laptop / Desktop with Webcam.
+v.	A minimum internet speed of 512 kbps is required.
+vi.	Check Internet speed before hand, from sites like: m-Lab or SpeedTest
+vii.	Prefer Wired or good WiFi connection on Laptop.
+viii.	On mobile ensure location which gives you stable speed not less than 512 kbps.
+ix.	Turn off all chat applications / messaging apps / other web browsers.
+x.	Only in case of power or internet failure, re-enter the same credentials to finish your examination. The examination will resume from the same instance where it got disrupted.
+xi.	Ensure sufficient (with factor of safety and redundancy) power backup to keep your devices amd Internet running for the duration of examination.
 
 
 
@@ -28,7 +28,7 @@ Following information is for the students who are to appear for End Semester Rea
 7.	Do not navigate away from the test window while appearing in ESE. Doing so will make you disqualified and your attempt will be freezed (that mean you won't able to attempt further).
 8.	Students will get an email with “Test Pin” as well as an exam link, a day before from donotreply@hiremee.co.in with subject "Examination Invitation". If student is using laptop/PC, then he/she will click on the link given in the email and when asked will fill the TEST PIN and after that will click the START button to start the exam. If using Moblie phone, first you will need to install hiremee app, then open it and paste the TEST PIN when asked.
 9.	The Test Pin, which authorizes you to appear in the examination (which you will get through email, one day in advance) is for one-time use only.
-10.	If due to some reason, any student does not get the email ( from donotreply@hiremee.co.in with subject “Examination Invitation”, by 08:00 am in the morning session and 12.00 pm for the evening session of the day of exam, then he / she need to inform the authorities by filling the form using link [discrepancy Form](https://docs.google.com/spreadsheets/d/1rTAbV-rgI_tpM8zJ7GHFnRrNq_7XSIQxBCJErCUddtU/edit?usp=sharing)  . 
+10.	If due to some reason, any student does not get the email ( from donotreply@hiremee.co.in with subject “Examination Invitation”, by 08:00 am in the morning session and 12.00 pm for the evening session of the day of exam, then he / she need to inform the authorities by filling the form using link [Discrepancy Form](https://docs.google.com/spreadsheets/d/1rTAbV-rgI_tpM8zJ7GHFnRrNq_7XSIQxBCJErCUddtU/edit?usp=sharing)  . 
 11.	Note that students will have to fill the mentioned form ONLY. Telephonic communication of any kind will not be entertained to address the discrepancies/problems during the exam time.
 12.	It is the sole responsibility of the student to provide correct and exact information asked in the discrepancy/complaint redressal form.
 13.	The students should check the date sheet of examinations uploaded on the website.
@@ -52,7 +52,7 @@ i.	Roll No of Student, Name and Page Numbering at top right.
 ii.	Signature on every page at bottom
 iii.	Page count/total number of pages at the bottom
 25.	Immediately after test is over, scanned copies of calculation work in zipped form needed to uploaded using form [Calculation Work](https://gndec.ac.in/~form/form/modules/form_builder/published/calculation_obe.php) .
-26.	Students shall also be responsible to post (Regd./Speed post only) all original papers used for calculation purpose after the last examination of the concerned student, failing which results shall not be declared. Speed post receipt must be immediately scanned and uploaded using form [ReceiptUpload](https://gndec.ac.in/~form/form/modules/form_builder/published/calculation_obe.php).
+26.	Students shall also be responsible to post (Regd./Speed post only) all original papers used for calculation purpose after the last examination of the concerned student, failing which results shall not be declared. Speed post receipt must be immediately scanned and uploaded using form [Receipt Upload](https://gndec.ac.in/~form/form/modules/form_builder/published/calculation_obe.php).
 27.	Envelope (Containing all original sheets) must be of A4 size of any color along-with cloth lining and candidate must write on top “Calculation sheet for May-2020 End Semester Examination” and addressed to:
 
 Controller of Examination 
