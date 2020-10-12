@@ -110,7 +110,7 @@ zipped form needed to uploaded using form [Calculation Work](https://gndec.ac.in
 original papers used for calculation purpose after the last examination of
 the concerned student, failing which results shall not be declared. Speed
 post receipt must be immediately scanned and uploaded using form
-XXXXXXXXXXXXXXXXXXXXXXXXX.
+[Calculation Work](https://gndec.ac.in/~form/form/modules/form_builder/published/calculation_obe.php).
 21. Envelop (Containing all original sheets) must be of A4 size of any
 colour along-with cloth lining and candidate must write on top “Calculation
 sheet for May-2020 End Semester Examination” and addressed to:    
