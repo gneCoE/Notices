@@ -1,4 +1,4 @@
-#### Instructions for online REAPPEAR OBE w.e.f. 14th Oct 2020
+### INSTRUCTIONS for ONLNE REAPPEAR OBE w.e.f. 14th OCT 2020
 In view of the prevailing situation of Covid-19 Pandemic, it is hereby notified to all concerned that examinations cannot be conducted in the conventional mode as per the existing Government norms of maintaining social distancing, safety and health of the students. So it has been decided that, Objective MCQ type, Open Book Examinations (OBE) shall be adopted as an alternative mode of examination for the students.
 Following information is for the students who are to appear for End Semester Reappear Examination (ESE) Session May 2020:
 ## Read All Instructions Carefully:
