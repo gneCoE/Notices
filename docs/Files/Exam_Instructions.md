@@ -68,7 +68,7 @@ when asked.
 donotreply@hiremee.co.in with subject “Examination Invitation”, by 08:00 am
 in the morning session and 12.00 pm for the evening session of the day of
 exam, then he / she need to inform the authorities by filling form
-at:____________. Note that students will have to fill the mentioned form
+at:XXXXXXXXXXXXX. Note that students will have to fill the mentioned form
 ONLY. Telephonic communication of any kind will not be entertained to
 address the discrepancies/problems during the exam time.
 9. It is the sole responsibility of the student to provide correct and
