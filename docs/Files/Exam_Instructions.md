@@ -4,17 +4,17 @@ Following information is for the students who are to appear for End Semester Rea
 ## Read All Instructions Carefully:
 
 ### INSTRUCTIONS REGARDING CONNECTIVITY:
-i.	On Laptop, or on desktop with a webcam, use latest version of modern web browser like Google Chrome, Firefox, Edge for appearing in the End Semester Examination (ESE). There is no need to install any software / plugin. Go through presentation and Video.
-ii.	Laptop / Desktop should have RAM not less than 2 GB.
-iii.	In case you wish to use Mobile then install hiremee app for Android or iPhone. Go through presentation and video.
-iv.	If you are able to install app on mobile, that mean your Mobile is supported, else arrange a different Mobile phone, or attempt on Laptop / Desktop with Webcam.
-v.	A minimum internet speed of 512 kbps is required.
-vi.	Check Internet speed before hand, from sites like: m-Lab or SpeedTest
-vii.	Prefer Wired or good WiFi connection on Laptop.
-viii.	On mobile ensure location which gives you stable speed not less than 512 kbps.
-ix.	Turn off all chat applications / messaging apps / other web browsers.
-x.	Only in case of power or internet failure, re-enter the same credentials to finish your examination. The examination will resume from the same instance where it got disrupted.
-xi.	Ensure sufficient (with factor of safety and redundancy) power backup to keep your devices amd Internet running for the duration of examination.
+1.	On Laptop, or on desktop with a webcam, use latest version of modern web browser like Google Chrome, Firefox, Edge for appearing in the End Semester Examination (ESE). There is no need to install any software / plugin. Go through presentation and Video.
+1.	Laptop / Desktop should have RAM not less than 2 GB.
+1.	In case you wish to use Mobile then install hiremee app for Android or iPhone. Go through presentation and video.
+1.	If you are able to install app on mobile, that mean your Mobile is supported, else arrange a different Mobile phone, or attempt on Laptop / Desktop with Webcam.
+1.	A minimum internet speed of 512 kbps is required.
+1.	Check Internet speed before hand, from sites like: m-Lab or SpeedTest
+1.	Prefer Wired or good WiFi connection on Laptop.
+1.	On mobile ensure location which gives you stable speed not less than 512 kbps.
+1.	Turn off all chat applications / messaging apps / other web browsers.
+1.	Only in case of power or internet failure, re-enter the same credentials to finish your examination. The examination will resume from the same instance where it got disrupted.
+1.	Ensure sufficient (with factor of safety and redundancy) power backup to keep your devices amd Internet running for the duration of examination.
 
 
 
