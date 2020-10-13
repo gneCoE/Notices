@@ -61,5 +61,5 @@ iii.	Page count/total number of pages at the bottom
    Ludhiana-141006
    ````
    
-29. Sender details, like Name of the Candidate, Roll No, Branch, semester(s), Postal address of candidate & mobile number need to be mentioned on the envelope.
+28. Sender details, like Name of the Candidate, Roll No, Branch, semester(s), Postal address of candidate & mobile number need to be mentioned on the envelope.
 
