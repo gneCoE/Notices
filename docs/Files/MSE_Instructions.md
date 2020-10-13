@@ -5,7 +5,7 @@ examinations cannot be conducted in the conventional mode as per the existing Go
 maintaining social distancing, safety and health of the students. So it has been decided that,
 online examination in two parts shall be conducted.
 
-Following information is for the students who are to appear for Mid Semester Reappear Examination (MSE) during Oct 2020:
+Following information is for the students who are to appear for Mid Semester Examination (MSE) during Oct 2020:
 
 ## Read All Instructions Carefully:
 
