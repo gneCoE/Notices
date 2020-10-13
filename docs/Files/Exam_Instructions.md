@@ -53,13 +53,11 @@ ii.	Signature on every page at bottom
 iii.	Page count/total number of pages at the bottom
 25.	Immediately after test is over, scanned copies of calculation work in zipped form needed to uploaded using form [Calculation Work](https://gndec.ac.in/~form/form/modules/form_builder/published/calculation_obe.php) .
 26.	Students shall also be responsible to post (Regd./Speed post only) all original papers used for calculation purpose after the last examination of the concerned student, failing which results shall not be declared. Speed post receipt must be immediately scanned and uploaded using form [Receipt Upload](https://gndec.ac.in/~form/form/modules/form_builder/published/calculation_obe.php).
-27.	Envelope (Containing all original sheets) must be of A4 size of any color along-with cloth lining and candidate must write on top “Calculation sheet for May-2020 End Semester Examination” and addressed to:
+27.	Envelope (Containing all original sheets) must be of A4 size of any color along-with cloth lining and candidate must write on top''Calculation sheet for May-2020 End Semester Examinatio'', Sender details (like Name of the Candidate, Roll No, Branch, semester(s), Postal address of candidate & mobile number) and addressed to:
 
    ````
    Controller of Examination 
    Guru Nanak Dev Engineering College,
    Ludhiana-141006
    ````
-   
-28. Sender details, like Name of the Candidate, Roll No, Branch, semester(s), Postal address of candidate & mobile number need to be mentioned on the envelope.
-
+  
