@@ -21,7 +21,7 @@ Following information is for the students who are to appear for Mid Semester Rea
 
 
 
-### GENERAL INSTRUCTIONS REGARDING OBE :
+### GENERAL INSTRUCTIONS REGARDING MSE :
 1.	Examination will be held in online mode that means students may appear for examination from home or any location of their choice, which meets the requirements for appearing in the examination in terms of Internet and Electricity.
 2.	Students can't refer to any reference material, in any form or consult anyone.
 2. If allowed, use only calculator, and not any app on Desktop / laptop or mobile.
@@ -30,6 +30,7 @@ Following information is for the students who are to appear for Mid Semester Rea
 4.	In case of any delay related to the start of examination from the college side due to any reason (Internet / Server issue, etc.) due time will be given to the student.
 5.	College authorities will not be responsible for any internet problem at the student’s end. Therefore, it is advised that every student must ensure a proper internet connection and appropriate device.
 6.	Examination will be proctored remotely using the Internet. It is advised to dress up properly and make sure no other person is accompanying the candidate during the examination, and the candidate is not permitted to consult any other person by any means of communication. Any violation of the conduct rules observed during proctoring will be treated as Unfair Means Case.
+6. Students need to login to their account of Moodle and at the same time need to join Zoom room, with webcam and mic on. Zoom room link will be given by the concerned deaprtment, before the examination.
 7.	Do not navigate away from the test window while appearing in ESE. Doing so will make you disqualified and your attempt will be freezed (that mean you won't able to attempt further).
 7.	The students should check the date sheet of examinations uploaded on the website.
 7.	Keep an eye on the Timer displayed on the screen.
