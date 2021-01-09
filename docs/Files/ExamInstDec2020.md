@@ -46,5 +46,5 @@ After setting the above said conditions scroll down the window, now tick mark on
 1. Now you will get the review option of your attempt at the last you have to press  finish review.
 ![image33.png](Dec2020/media/image33.png)
 ![image34.png](Dec2020/media/image34.png)
-1. Now you exam is submitted successfully.
+1. Now your exam is submitted successfully.
 ![image35.png](Dec2020/media/image35.png)
