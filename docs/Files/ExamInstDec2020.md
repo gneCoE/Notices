@@ -2,7 +2,7 @@
 
 ### General
 
-These instructions are in continuation to the instructions issued on Jan 04, 2020 under subject "INSTRUCTIONS for ONLNE REGULAR EXAMINATION w.e.f. 12th JAN 2021" on Notice Board of [https://apps.gndec.ac.in](https://apps.gndec.ac.in)
+These instructions are in continuation to the instructions issued on Jan 04, 2020 under subject "INSTRUCTIONS for ONLNE REGULAR EXAMINATION w.e.f. 12th JAN 2021" on Notice Board of [https://apps.gndec.ac.in](https://apps.gndec.ac.in); may be found at [Exam_InstructionsNov2020.html](Exam_InstructionsNov2020.html)
 
 1. Examination will be of two hours duration, but students will get a window of THREE hours (10 am to 01.00 pm for the morning session and 02.00 pm to 05.00 pm for the evening session), so that if a student is unable to start an attempt at the scheduled time, still he / she will get 2 hours for the attempt. But no one will be able to attempt after the window of three hours is over.
 1. In case of any delay related to the start of examination from the college side due to any reason (Internet / Server issue, etc.) due time will be given to the students.
