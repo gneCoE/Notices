@@ -32,7 +32,6 @@ For attempting the ESE NOV-2020 students have to follow the following steps very
 ![image5.png](Dec2020/media/image5.png)
 1. In the window, you get, you should have to ensure that your webcam is working properly and picture is clear like shown in below.
 ![image6.png](Dec2020/media/image6.png)
-Some of the samples of the pictures are shown below which are acceptable or not acceptable for the examination. Any violation of the conduct rules observed during proctoring will be treated as Unfair Means Case (UMC).
 After setting the above said conditions scroll down the window, now tick mark on "I agree with the validation process" now press the tab start attempt.
 ![image28.png](Dec2020/media/image28.png)
 1. Now your exam is started attempt the question and press “next page” tab for second question.
