@@ -10,6 +10,7 @@ These instructions are in continuation to the instructions issued on Jan 04, 202
 1. Examination will be proctored remotely using the Internet. It is advised to dress up properly and make sure no other person is accompanying the candidate during the examination, and the candidate is not permitted to:
    1. refer any help material (in any form) or
    1. consult any other person by any means of communication.
+
    Any violation of the conduct rules observed during proctoring will be treated as Unfair Means Case (UMC).
 1. If due to some reason, any student is not able to start test, but otherwise, he is eligible to appear in test, then he / she need to inform the authorities by filling the form using `Help Form` from [https://gdy.club/exam](https://gdy.club/exam) or [https://forms.gle/KdRaUNxfFo4x4KSF8](https://forms.gle/KdRaUNxfFo4x4KSF8). Note that students will have to fill the mentioned form ONLY. Telephonic communication of any kind will not be entertained to address any issue during the examination time.
 1. It is the sole responsibility of the student to provide correct and exact information asked in the `Help form`.
