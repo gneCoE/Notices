@@ -4,15 +4,15 @@
 
 These instructions are in continuation to the instructions issued on Jan 04, 2020 under subject "INSTRUCTIONS for ONLNE REGULAR EXAMINATION w.e.f. 12th JAN 2021" on Notice Board of [https://apps.gndec.ac.in](https://apps.gndec.ac.in)
 
-1. Examination will be of two hours duration, but students will get a window of THREE hours (10am to 1.00pm for morning session and 2.00 pm to 5.00 pm for evening session), so that if a student is unable to start an attempt at the scheduled time, still he/she will get 2 hours for the attempt. But no one will be able to attempt after that window of three hours is over.
-1. In case of any delay related to the start of examination from the college side due to any reason (Internet / Server issue, etc.) due time will be given to the student.
+1. Examination will be of two hours duration, but students will get a window of THREE hours (10 am to 01.00 pm for the morning session and 02.00 pm to 05.00 pm for the evening session), so that if a student is unable to start an attempt at the scheduled time, still he / she will get 2 hours for the attempt. But no one will be able to attempt after the window of three hours is over.
+1. In case of any delay related to the start of examination from the college side due to any reason (Internet / Server issue, etc.) due time will be given to the students.
 1. College authorities will not be responsible for any internet problem at the student's end. Therefore, it is advised that every student must ensure a proper internet connection and appropriate device.
 1. Examination will be proctored remotely using the Internet. It is advised to dress up properly and make sure no other person is accompanying the candidate during the examination, and the candidate is not permitted to:
    1. refer any help material (in any form) or
    1. consult any other person by any means of communication.
    Any violation of the conduct rules observed during proctoring will be treated as Unfair Means Case (UMC).
-1. If due to some reason, any student does not find test in his/her portal [https://ese.gndec.ac.in](https://ese.gndec.ac.in), by 30 minutes before the scheduled time, then he / she need to inform the authorities by filling the form using Discrepancy Form from [https://gdy.club/exam](https://gdy.club/exam) or [https://forms.gle/KdRaUNxfFo4x4KSF8](https://forms.gle/KdRaUNxfFo4x4KSF8). Note that students will have to fill the mentioned form ONLY. Telephonic communication of any kind will not be entertained to address the discrepancies/problems during the exam time.
-1. It is the sole responsibility of the student to provide correct and exact information asked in the discrepancy/complaint redressal form.
+1. If due to some reason, any student is not able to start test, but otherwise, he is eligible to appear in test, then he / she need to inform the authorities by filling the form using `Help Form` from [https://gdy.club/exam](https://gdy.club/exam) or [https://forms.gle/KdRaUNxfFo4x4KSF8](https://forms.gle/KdRaUNxfFo4x4KSF8). Note that students will have to fill the mentioned form ONLY. Telephonic communication of any kind will not be entertained to address any issue during the examination time.
+1. It is the sole responsibility of the student to provide correct and exact information asked in the `Help form`.
 1. The students should check the date sheet of examinations uploaded on the website.
 1. Keep an eye on the Timer displayed on the screen.
 
