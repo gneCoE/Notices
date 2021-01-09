@@ -11,7 +11,7 @@ These instructions are in continuation to the instructions issued on Jan 04, 202
    1. refer any help material (in any form) or
    1. consult any other person by any means of communication.
    Any violation of the conduct rules observed during proctoring will be treated as Unfair Means Case (UMC).
-1. If due to some reason, any student does not find test in his/her portal [https://ese.gndec.ac.in](https://ese.gndec.ac.in), by 30 minutes before the scheduled time, then he / she need to inform the authorities by filling the form using Discrepancy Form from [https://gdy.club/exam](https://gdy.club/exam). Note that students will have to fill the mentioned form ONLY. Telephonic communication of any kind will not be entertained to address the discrepancies/problems during the exam time.
+1. If due to some reason, any student does not find test in his/her portal [https://ese.gndec.ac.in](https://ese.gndec.ac.in), by 30 minutes before the scheduled time, then he / she need to inform the authorities by filling the form using Discrepancy Form from [https://gdy.club/exam](https://gdy.club/exam) or [https://forms.gle/KdRaUNxfFo4x4KSF8](https://forms.gle/KdRaUNxfFo4x4KSF8). Note that students will have to fill the mentioned form ONLY. Telephonic communication of any kind will not be entertained to address the discrepancies/problems during the exam time.
 1. It is the sole responsibility of the student to provide correct and exact information asked in the discrepancy/complaint redressal form.
 1. The students should check the date sheet of examinations uploaded on the website.
 1. Keep an eye on the Timer displayed on the screen.
