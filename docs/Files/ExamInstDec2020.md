@@ -36,6 +36,7 @@ Click on "I agree with the validation process" now press the tab start attempt.
 ![image28.png](Dec2020/media/image28.png)
 1. Now your exam is started attempt the question and press “next page” tab for second question.
 ![image29.png](Dec2020/media/image29.png)
+1. Like this attempt all questions.
 1. Keep an eye on the Timer displayed on the screen.
 1. After attempting all the questions you should have to press "Finish attempt" tab.
 ![image30.png](Dec2020/media/image30.png)
