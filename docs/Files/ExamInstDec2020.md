@@ -24,12 +24,17 @@ For attempting the ESE NOV-2020 students have to follow the following steps very
 ![image1.png](Dec2020/media/image1.png)
 1. Login with your credentials as used in guru.gndec.ac.in for attending your classes.
 ![image2.png](Dec2020/media/image2.png)
-
 1. Select the TAB [My courses] -> exam-2020.
+![image3.png](Dec2020/media/image3.png)
 1. Select the quiz to attempt (instead of demo quiz you may find Mock test for mock exam and for final exam it will be your subject code/paper ID).
+![image4.png](Dec2020/media/image4.png)
 1. After selecting the quiz type you have to press the button [Attempt Quiz now].
+![image5.png](Dec2020/media/image5.png)
 1. In the window, you get, you should have to ensure that your webcam is working properly and picture is clear like shown in below.
+![image6.png](Dec2020/media/image6.png)
 Some of the samples of the pictures are shown below which are acceptable or not acceptable for the examination. Any violation of the conduct rules observed during proctoring will be treated as Unfair Means Case (UMC).
+
+
       distracting background not centered
 
              shadows behind head        shadows across the
@@ -38,16 +43,20 @@ Some of the samples of the pictures are shown below which are acceptable or not 
                     dark tinted lenses	flash reflection on lenses
 After setting the above said conditions scroll down the window, now tick mark on “I agree with the validation process” now press the tab start attempt.	
 1. Now your exam is started attempt the question and press “next page” tab for second question.
+![image31.png](Dec2020/media/image31.png)
 1. After attempting all the questions you should have to press “Finish attempt” tab.
-1. Now you should have to press the tab “Submit all and finish”.
-1. After that you get confirmation window, here you have to press the tab “submit all and finish”.
+![image32.png](Dec2020/media/image32.png)
+1. Now you should have to press the tab "Submit all and finish".
+![image33.png](Dec2020/media/image33.png)
+1. After that you get confirmation window, here you have to press the tab "submit all and finish".
+![image34.png](Dec2020/media/image34.png)
 1. Now you will get the review option of your attemt at the last you have to press  finish review.
 1. Now you exam is submitted sucessfully.
+![image35.png](Dec2020/media/image35.png)
 
-![image3.png](Dec2020/media/image3.png)
-![image4.png](Dec2020/media/image4.png)
-![image5.png](Dec2020/media/image5.png)
-![image6.png](Dec2020/media/image6.png)
+
+
+
 ![image7.png](Dec2020/media/image7.png)
 ![image8.png](Dec2020/media/image8.jpeg)
 ![image9.png](Dec2020/media/image9.jpeg)
@@ -72,8 +81,3 @@ After setting the above said conditions scroll down the window, now tick mark on
 ![image28.png](Dec2020/media/image28.png)
 ![image29.png](Dec2020/media/image29.png)
 ![image30.png](Dec2020/media/image30.png)
-![image31.png](Dec2020/media/image31.png)
-![image32.png](Dec2020/media/image32.png)
-![image33.png](Dec2020/media/image33.png)
-![image34.png](Dec2020/media/image34.png)
-![image35.png](Dec2020/media/image35.png)
