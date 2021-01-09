@@ -2,8 +2,38 @@
 
 ## Instructions
 
-- Test2 
-
-
 ![image1.png](Dec2020/media/image1.png)
-
+![image2.png](Dec2020/media/image2.png)
+![image3.png](Dec2020/media/image3.png)
+![image4.png](Dec2020/media/image4.png)
+![image5.png](Dec2020/media/image5.png)
+![image6.png](Dec2020/media/image6.png)
+![image7.png](Dec2020/media/image7.png)
+![image8.png](Dec2020/media/image8.png)
+![image9.png](Dec2020/media/image9.png)
+![image10.png](Dec2020/media/image10.png)
+![image11.png](Dec2020/media/image11.png)
+![image12.png](Dec2020/media/image12.png)
+![image13.png](Dec2020/media/image13.png)
+![image14.png](Dec2020/media/image14.png)
+![image15.png](Dec2020/media/image15.png)
+![image16.png](Dec2020/media/image16.png)
+![image17.png](Dec2020/media/image17.png)
+![image18.png](Dec2020/media/image18.png)
+![image19.png](Dec2020/media/image19.png)
+![image20.png](Dec2020/media/image20.png)
+![image21.png](Dec2020/media/image21.png)
+![image22.png](Dec2020/media/image22.png)
+![image23.png](Dec2020/media/image23.png)
+![image24.png](Dec2020/media/image24.png)
+![image25.png](Dec2020/media/image25.png)
+![image26.png](Dec2020/media/image26.png)
+![image27.png](Dec2020/media/image27.png)
+![image28.png](Dec2020/media/image28.png)
+![image29.png](Dec2020/media/image29.png)
+![image30.png](Dec2020/media/image30.png)
+![image31.png](Dec2020/media/image31.png)
+![image32.png](Dec2020/media/image32.png)
+![image33.png](Dec2020/media/image33.png)
+![image34.png](Dec2020/media/image34.png)
+![image35.png](Dec2020/media/image35.png)
