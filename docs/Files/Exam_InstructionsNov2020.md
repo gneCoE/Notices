@@ -23,6 +23,8 @@ Ensure sufficient (with factor of safety and redundancy) power backup to keep yo
 
 **Note** : Exhaustive Instructions regarding conduct of examination will be issued before mock test. The students are advised to keep visiting college website regularly.
 
+**Update 01** As per Note above, instructions issue at [ExamInstDec2020.html](ExamInstDec2020.html)
+
 Controller of Examination
 
 Guru Nanak Dev Engineering College, Ludhiana
