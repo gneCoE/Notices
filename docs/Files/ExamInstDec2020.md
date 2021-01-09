@@ -2,6 +2,108 @@
 
 ## Instructions
 
+GENERAL INSTRUCTIONS REGARDING OBE :
+Examination will be held in online mode that means students may appear for examination from home or any location of their choice, which meets the requirements for appearing in the examination in terms of Internet and Electricity.
+The examination shall be an Open Book Examination (OBE). Students may refer to any reference material, in any form.
+Examination will be of two hours duration, but students will get window of THREE hours (10am to 1.00pm for morning session and 2.00 pm to 5.00 pm for evening session), so that if a student is unable to start an attempt at the scheduled time, still he/she will get 2 hours for the attempt. But no one will be able to attempt after that window of three hours.
+In case of any delay related to the start of examination from the college side due to any reason (Internet / Server issue, etc.) due time will be given to the student.
+College authorities will not be responsible for any internet problem at the student’s end. Therefore, it is advised that every student must ensure a proper internet connection and appropriate device.
+Examination will be proctored remotely using the Internet. It is advised to dress up properly and make sure no other person is accompanying the candidate during the examination, and the candidate is not permitted to consult any other person by any means of communication. Any violation of the conduct rules observed during proctoring will be treated as Unfair Means Case (UMC).
+If due to some reason, any student does not find test in his/her portal ese.gndec.ac.in, by 30 minutes before the scheduled time, then he / she need to inform the authorities by filling the form using link Discrepancy Form. Note that students will have to fill the mentioned form ONLY. Telephonic communication of any kind will not be entertained to address the discrepancies/problems during the exam time.
+It is the sole responsibility of the student to provide correct and exact information asked in the discrepancy/complaint redressal form.
+The students should check the date sheet of examinations uploaded on the website.
+Keep an eye on the Timer displayed on the screen.
+
+
+
+
+
+
+
+
+
+INSTRUCTION FOR ATTEMPTING ESE NOV-2020
+For attempting the ESE NOV-2020 students have to follow the following steps very carefully:
+Step 1: Login at ese.gndec.ac.in on your laptop/mobile(you shuld have latest version of google crome or firefox browser installed on your devices).
+
+
+Step 2: Login with your credentials as used in guru.gndec.ac.in for attending your classes.
+
+Step 3: Select the tab my course - in progess – exam-2020.
+Step 4: Now select the quiz to attempt (instead of demo quiz you may find Mock test for mocke exam and for final exam it will be your subject code/paper ID)
+
+Step 5: After selecting the quiz type you have to press tha tab “Attempt Quiz now”.
+Step 6: Now in this window you should have to ensure that your webcam is working properly and picture is clear like shown in below.
+Some of the samples of the pictures are shown below which are acceptable or not acceptable for the examination. Any violation of the conduct rules observed during proctoring will be treated as Unfair Means Case (UMC).
+      distracting background not centered
+
+             shadows behind head        shadows across the
+              looking away	            unnatural skin tones
+      hairs across eyes	                   eyes closed 
+                    dark tinted lenses	flash reflection on lenses
+After setting the above said conditions scroll down the window, now tick mark on “I agree with the validation process” now press the tab start attempt.	
+
+
+
+
+
+
+
+Step 7: Now your exam is started attempt the question and press “next page” tab for second question.
+
+
+
+
+
+
+
+Step 8: After attempting all the questions you should have to press “Finish attempt” tab.
+
+
+
+
+
+
+
+
+
+
+Step 9: Now you should have to press the tab “Submit all and finish”.
+
+
+
+
+
+
+
+
+Step 10: After that you get confirmation window, here you have to press the tab “submit all and finish”.
+
+
+
+
+
+
+
+
+Step 11: Now you will get the review option of your attemt at the last you have to press  finish review.
+
+
+
+
+
+
+
+
+
+
+
+Step 12: Now you exam is submitted sucessfully.
+
+
+
+
+
 ![image1.png](Dec2020/media/image1.png)
 ![image2.png](Dec2020/media/image2.png)
 ![image3.png](Dec2020/media/image3.png)
