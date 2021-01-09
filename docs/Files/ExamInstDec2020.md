@@ -16,9 +16,9 @@ These instructions are in continuation to the instructions issued on Jan 04, 202
 1. It is the sole responsibility of the student to provide correct and exact information asked in the `Help form`.
 1. The students should check the date sheet of examinations uploaded on the website.
 
-### Attempting ESE NOV-2020
+### Attempting ESE Nov. 2020
 
-For attempting the ESE NOV-2020 students have to follow the following steps very carefully:
+For attempting the ESE Nov. 2020 students have to follow the following steps very carefully:
 
 1. Open [https://ese.gndec.ac.in](https://ese.gndec.ac.in]) from your Internet Access Device with webcam (you should have latest version of google chrome or Firefox browser installed on your devices).
 ![image1.png](Dec2020/media/image1.png)
