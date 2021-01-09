@@ -12,10 +12,9 @@ These instructions are in continuation to the instructions issued on Jan 04, 202
    1. consult any other person by any means of communication.
 
    Any violation of the conduct rules observed during proctoring will be treated as Unfair Means Case (UMC).
-1. If due to some reason, any student is not able to start test, but otherwise, he is eligible to appear in test, then he / she need to inform the authorities by filling the form using `Help Form` from [https://gdy.club/exam](https://gdy.club/exam) or [https://forms.gle/KdRaUNxfFo4x4KSF8](https://forms.gle/KdRaUNxfFo4x4KSF8). Note that students will have to fill the mentioned form ONLY. Telephonic communication of any kind will not be entertained to address any issue during the examination time.
+1. If due to some reason, any student is not able to start the examination, but otherwise, he is eligible to appear in the examination, then he / she need to inform the authorities by filling the `Help Form` from [https://gdy.club/exam](https://gdy.club/exam) or [https://forms.gle/KdRaUNxfFo4x4KSF8](https://forms.gle/KdRaUNxfFo4x4KSF8). Note that students have to fill the mentioned form ONLY. Telephonic communication of any kind will not be entertained to address issues during the examination time.
 1. It is the sole responsibility of the student to provide correct and exact information asked in the `Help form`.
 1. The students should check the date sheet of examinations uploaded on the website.
-1. Keep an eye on the Timer displayed on the screen.
 
 ### Attempting ESE NOV-2020
 
@@ -37,6 +36,7 @@ After setting the above said conditions scroll down the window, now tick mark on
 ![image28.png](Dec2020/media/image28.png)
 1. Now your exam is started attempt the question and press “next page” tab for second question.
 ![image29.png](Dec2020/media/image29.png)
+1. Keep an eye on the Timer displayed on the screen.
 1. After attempting all the questions you should have to press "Finish attempt" tab.
 ![image30.png](Dec2020/media/image30.png)
 1. Now you should have to press the tab "Submit all and finish".
