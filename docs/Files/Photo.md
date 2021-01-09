@@ -6,7 +6,7 @@ Students are required to check all particular of their profile, and update their
 2. The photograph should be in colour.
 3. Photo must be clear and with a continuous‐tone quality.
 4. It should have front view, eyes open.
-5. Photo should present full head from top of hair to bottom of chin.
+5. Photo should present full head from top of hair or top of turban to bottom of chin.
 6. Center head within frame.
 7. Don't take selfie, get photo clicked from someone else.
 8. Head should face the camera directly.
@@ -20,7 +20,7 @@ Students are required to check all particular of their profile, and update their
 ### Do’s and Dont’s for a Proper photo
 
 1. The photo should capture full face, front view, with eyes open.
-1. Height  of head  should measure  50% tp 69% of image height.
+1. Height  of head  should measure  50% to 69% of image height.
 2. Make sure eye height is between 56% to 69% of height of image.
 3. The light should be even and balanced to avoid shadows on the face.
 4. Background  behind  the  face  should  be  properly  illuminated  to  avoid  shadows  in the background.
