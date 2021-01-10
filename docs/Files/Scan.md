@@ -9,5 +9,7 @@ A liberal size will be permitted to enable you to upload a single pdf file, cont
 3. Resolution may be between 150 to 200 DPI.
 4. Prefer grey scale over colour, if it meets your requirements.
 5. Scan size of on A4 paper might be of the order of 200 - 400 KB, if your size is too large than this, then check setting.
+6. Once you finish your all papers (say 3), save then as single PDF.
+7. Before upload do check PDF for quality, sequence of pages, and your particulars on each page.
 
 [Back to main 1st page](Exam_InstructionsNov2020.html)
