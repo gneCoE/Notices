@@ -15,7 +15,7 @@ These instructions are in continuation to the instructions issued on Jan 04, 202
 1. If due to some reason, any student is not able to start the examination, but otherwise, he is eligible to appear in the examination, then he / she need to inform the authorities by filling the `Help Form` from [https://gdy.club/exam](https://gdy.club/exam) or [https://forms.gle/KdRaUNxfFo4x4KSF8](https://forms.gle/KdRaUNxfFo4x4KSF8). Note that students have to fill the mentioned form ONLY. Telephonic communication of any kind will not be entertained to address issues during the examination time.
 1. It is the sole responsibility of the student to provide correct and exact information asked in the `Help form`.
 1. The students should check the date sheet of examinations uploaded on the website.
-2. Update your profile photo keeping in mind photo related specification as per [Photo.html](Photo.html). 
+2. Update your profile photo keeping in mind photo related specification as per [Photo.html](Photo.html).
 
 ### Attempting ESE Nov. 2020
 
@@ -29,15 +29,19 @@ For attempting the ESE Nov. 2020 students have to follow the following steps ver
 ![image3.png](Dec2020/media/image3.png)
 1. Select the quiz to attempt (instead of demo quiz you may find Mock test for mock exam and for final exam it will be your subject code/paper ID).
 ![image4.png](Dec2020/media/image4.png)
-1. After selecting the quiz type you have to press the button [Attempt Quiz now].
+1. After selecting the quiz, you have to press the button [Attempt Quiz now].
 ![image5.png](Dec2020/media/image5.png)
 1. In the window, you get, you should have to ensure that your webcam is working properly and picture is clear like shown in below.
 ![image6.png](Dec2020/media/image6.png)
-Click on "I agree with the validation process" now press the tab start attempt.
+Click on "I agree with the validation process" now press the TAB start attempt.
 ![image28.png](Dec2020/media/image28.png)
-1. Now your exam is started attempt the question and press “next page” tab for second question.
+1. Now your exam is started attempt the question and press "next page" tab for second question.
 ![image29.png](Dec2020/media/image29.png)
 1. Like this attempt all questions.
+1. The last question will be of zero marks, where you need to tell how many pages you have used for rough work, which you will upload as a single pdf, in a quiz, which will appear after the submission of Quiz for End Semester Examination.
+1. You will get 45 minutes to scan and upload rough work.
+1. Within 24 hours, after the last examination, you will send all papers of rough work, in original, to Controller of Examination, by Speed Post or by hand.
+1. Refer advised (issued separately at [Scan.html](Scan.html) ) for the scanning and preparation of pdf.
 1. Keep an eye on the Timer displayed on the screen.
 1. After attempting all the questions you should have to press "Finish attempt" tab.
 ![image30.png](Dec2020/media/image30.png)
@@ -50,3 +54,4 @@ Click on "I agree with the validation process" now press the tab start attempt.
 ![image34.png](Dec2020/media/image34.png)
 1. Now your exam is submitted successfully.
 ![image35.png](Dec2020/media/image35.png)
+1.  After that you get another quiz, where you need to upload pdf (having scanned copy of rough work).
