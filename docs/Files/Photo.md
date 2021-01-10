@@ -1,3 +1,5 @@
+[Back to main 1st page](ExamInstDec2020.html)
+
 # Profile photo and other particulars
 
 Students are required to check all particular of their profile, and update their profile photo, with following specifications:
@@ -48,3 +50,5 @@ A few examples of acceptable and not-acceptable photos are given below:
 ![image25.png](Dec2020/media/Photo/image25.png)
 ![image26.png](Dec2020/media/Photo/image26.png)
 ![image27.png](Dec2020/media/Photo/image27.jpeg)
+
+[Back to main 1st page](ExamInstDec2020.html)
