@@ -1,4 +1,4 @@
-[Back to main 1st page](ExamInstDec2020.html)
+[Back to main 1st page](Exam_InstructionsNov2020.html)
 
 # Profile photo and other particulars
 
@@ -51,4 +51,4 @@ A few examples of acceptable and not-acceptable photos are given below:
 ![image26.png](Dec2020/media/Photo/image26.png)
 ![image27.png](Dec2020/media/Photo/image27.jpeg)
 
-[Back to main 1st page](ExamInstDec2020.html)
+[Back to main 1st page](Exam_InstructionsNov2020.html)
