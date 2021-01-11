@@ -13,6 +13,7 @@ These instructions are in continuation to the instructions issued on Jan 04, 202
 
    Any violation of the conduct rules observed during proctoring will be treated as Unfair Means Case (UMC).
 1. If due to some reason, any student is not able to start the examination, but otherwise, he is eligible to appear in the examination, then he / she need to inform the authorities by filling the `Help Form` from [https://gdy.club/exam](https://gdy.club/exam) or [https://forms.gle/KdRaUNxfFo4x4KSF8](https://forms.gle/KdRaUNxfFo4x4KSF8). Note that students have to fill the mentioned form ONLY. Telephonic communication of any kind will not be entertained to address issues during the examination time.
+1. Above `Help Form` will only for issues during the conduct of examination. For any other help, use [Guru.GNE]()
 1. It is the sole responsibility of the student to provide correct and exact information asked in the `Help form`.
 1. The students should check the date sheet of examinations uploaded on the website.
 2. Update your profile photo keeping in mind photo related specification as per [Photo.html](Photo.html).
