@@ -7,7 +7,7 @@ A liberal size will be permitted to enable you to upload a single pdf file, cont
 1. Use any Software / Application of your choice. Two such suggested Apps might be Kaagaz, Adobe Scan, Cam Scanner.
 1. Scanning needed to be optimised for minimum bandwidth.
 2. Do practice with software to explore various option, and look for setting which result in optimal size of scan.
-3. Resolution may be between 150 to 200 DPI.
+3. Resolution may be between 150 to 300 DPI.
 5. Scan size of on A4 paper might be of the order of 200 - 400 KB, if your size is too large than this, then check setting.
 6. Once you finish your all papers (say 3), save then as single PDF.
 7. Before upload do check PDF for quality, sequence of pages, and your particulars on each page.
