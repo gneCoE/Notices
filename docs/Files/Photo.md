@@ -22,8 +22,8 @@ Students are required to check all particular of their profile, and update their
 ### Do’s and Dont’s for a Proper photo
 
 1. The photo should capture full face, front view, with eyes open.
-1. Height  of head  should measure  50% to 69% of image height.
-2. Make sure eye height is between 56% to 69% of height of image.
+1. Height  of face (top of hair or turban to chin)  should measure  50% to 70% of image height.
+2. Make sure eye height (from the bottom of the image) is between 55% to70% of height of image.
 3. The light should be even and balanced to avoid shadows on the face.
 4. Background  behind  the  face  should  be  properly  illuminated  to  avoid  shadows  in the background.
 
